@@ -5,7 +5,7 @@
 Sou um amante de tecnologia em geral, aspirante a programação e em busca de mais conhecimento!
 <br/>Atualmente trabalhando com Front End em React mas com foco em tornar Full Stack.
 <br/><br/>
-Atualmente trabalho como Desenvolvedor Front End Junior na DSB Solutions mas sempre em busca por novas oportunidades para adiquirir novos conhecimentos.
+Atualmente trabalho como Desenvolvedor Front End Junior na ExpertVoice Software mas sempre em busca por novas oportunidades para adiquirir novos conhecimentos.
 </br>No momento estou estudando React.JS. Estou fazendo parte da NLW #4 da Rocketseat, tive a oportunidade de participar das edições anteriores onde tive uma ótima experiência em aprender Javascript, node.js, React, além de aprender um pouco mais de HTML e CSS. Pretendo colaborar em qualquer área em troca de experiência.
 <br/><br/>
 <hr>
