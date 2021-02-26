@@ -11,7 +11,7 @@ Atualmente trabalho como Desenvolvedor Front End Junior na ExpertVoice Software 
 <hr>
 Meus contatos:
 <ul>
-<li>E-mail - gbds1703farra@hotmail.com</li>
+<li>E-mail - this.dev.gabriel@gmail.com</li>
 <li>Linkedin - https://www.linkedin.com/in/gabriel-barboza-dos-santos-b01313150/</li>
 <li>Rocketseat - https://app.rocketseat.com.br/me/gabriel-barboza-dos-santos-1571112092</li>
 </ul>
